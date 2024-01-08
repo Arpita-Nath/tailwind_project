@@ -11,6 +11,12 @@ tailwind.config = {
         },
         fontFamily: {
           'roboto': "'Roboto Condensed', sans-serif",
+      },
+      backgroundImage: {
+        'banner': "url('./images/banner.jpg')",
+      },
+      letterSpacing: {
+        heading: '-0.64px',
       }
     }
   }
