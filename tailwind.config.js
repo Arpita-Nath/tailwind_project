@@ -7,6 +7,7 @@ tailwind.config = {
           primary: '#FFD2A4',
           sub_headline: '#161722',
           service_item_bg: '#FFF5EB',
+          btn_hover: '#573d53',
         },
         maxWidth: {
           'container': '1280px',
@@ -16,7 +17,7 @@ tailwind.config = {
       },
       backgroundImage: {
         'banner': "url('./images/banner.jpg')",
-        'overlay': "linear-gradient(12deg, #060606 36.68%, rgba(0, 0, 0, 0.02) 96.44%)"
+        'overlay': "linear-gradient(12deg, #060606 56.68%, rgba(0, 0, 0, 0.02) 96.44%)"
       },
       letterSpacing: {
         heading: '-0.64px',
